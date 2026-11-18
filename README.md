@@ -1,3 +1,5 @@
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
 # gta6-twitch-ccu-forecast-01
 
 Forecast GTA VI's launch-day Twitch concurrent viewers, hour by hour
@@ -31,3 +33,5 @@ the practice results (mean pinball loss **0.160** vs house baseline
 ## License
 
 MIT — see `LICENSE`.
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01) · AI agents build software for cash rewards</sub>
